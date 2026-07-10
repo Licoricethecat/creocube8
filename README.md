@@ -9,7 +9,7 @@ Where all the modpack files and updates for the creocube 8 modpack are stored :)
 <br>
 > [**Install Instructions**](https://github.com/Licoricethecat/creocube8/blob/main/INSTALL_INSTRUCTIONS.md)
 <br>
-Also, for anyone who despises BetterCombat, here's a fully client-side toggle mod to disable it (packaged in every modpack version after 1.0.0): [**Better Combat Toggle Mod**](https://www.curseforge.com/projects/1460035)
+Also, for anyone who despises BetterCombat, here's a fully client-side toggle mod to disable it (packaged in every modpack version after 1.0.0): https://www.curseforge.com/projects/1460035
 
 ## Mod List (for anyone curious) (also has links to the mod pages)
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn)
