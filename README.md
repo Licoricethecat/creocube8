@@ -5,4 +5,4 @@ Where all the modpack files and updates for the creocube 8 modpack are stored :)
 # [Modpack Download Link](https://github.com/Licoricethecat/creocube8/releases)
 **Download the modpack file corresponding to the launcher you use!**
 <br>
--# I highly reccommend Prism but that's my personal take
+*I highly reccommend Prism but that's my personal take*
