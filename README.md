@@ -1,3 +1,4 @@
+![Creocube 8 Banner](https://github.com/Licoricethecat/creocube8/blob/main/images/Creocube%208%20Banner.png "Creocube 8 Banner")
 # creocube8
 Where all the modpack files and updates for the creocube 8 modpack are stored :)
 <br>
