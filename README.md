@@ -6,6 +6,8 @@ Where all the modpack files and updates for the creocube 8 modpack are stored :)
 **Download the modpack file corresponding to the launcher you use!**
 <br>
 *I highly reccommend Prism but that's my personal take*
+<br>
+> [**Install Instructions**](https://github.com/Licoricethecat/creocube8/blob/main/INSTALL_INSTRUCTIONS.md)
 ## Mod List (for anyone curious) (also has links to the mod pages)
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn)
 - [Accelerated Decay](https://modrinth.com/mod/laX5CckD)
