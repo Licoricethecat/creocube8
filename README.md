@@ -38,6 +38,7 @@ Also, for anyone who despises BetterCombat, here's a fully client-side toggle mo
 - [BetterF3](https://modrinth.com/mod/8shC1gFX)
 - [Biolith](https://modrinth.com/mod/iGEl6Crx)
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm)
+- [Building Gadgets 2](https://www.curseforge.com/projects/298187)
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ)
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx)
 - [Chefs Delight](https://modrinth.com/mod/pvcsfne4)
