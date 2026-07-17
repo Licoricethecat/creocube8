@@ -23,7 +23,7 @@ Also, for anyone who despises BetterCombat, here's a fully client-side toggle mo
 [**Better Combat Client Toggle**](https://www.curseforge.com/projects/1460035)
 
 ## Mod List (for anyone curious) (also has links to the mod pages)
-- - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn)
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn)
 - [Accelerated Decay](https://modrinth.com/mod/laX5CckD)
 - [AmbientSounds](https://modrinth.com/mod/fM515JnW)
 - [Amplified Nether](https://modrinth.com/mod/wXiGiyGX)
